@@ -25,8 +25,7 @@ You click this binder link and navigate to the notebook file, but for a nice dyn
 ## Virtual reality
 In this tutorial we construct two 3-dimensional games, where we use vector addition and matrix multiplication to control our avatar and reach a target.
 
-![plot](https://github.com/ltoniazzi/Algebra_applications/tree/main/Virtual_reality/neilba.jpg?raw=true)
-
+<img src="https://github.com/ltoniazzi/Algebra_applications/tree/main/Virtual_reality/neilba.jpg?raw=true)" width="175" align="center" /></a>
 ### How to run
 To run any of this two tutorials you need to run the file in Matlab.
 
