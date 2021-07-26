@@ -3,12 +3,19 @@
 This repository contains four tutorial for applications of linear algebra and matrices. Tha aim is to show the power and versatility of basic properties of matrices combined with scientific software. We explain below how to run the different files
 
 ## Supervised learning
+
+<img src="https://raw.githubusercontent.com/ltoniazzi/Algebra_applications/main/Virtual_reality/images/ML.png?raw=true)" width="375" align="right" /></a>
+
 In this tutorial we construct from scratch, and without using calculus, a training algorythm for image recognition aplpiead to the MNIST set. At the end this is comapered with the same model built on TensorFlow.
 
 ### How to run
 Simply click this binder link and navigate to the notebook file.
 
 ## Encryption
+<img src="https://raw.githubusercontent.com/ltoniazzi/Algebra_applications/main/Virtual_reality/images/encrypt.png?raw=true)" width="375" align="right" /></a>
+
+
+
 In this tutorial we use the theory of invertibility of elementary matrices to construct an encryption algorythm. You can input a password to encrypt a message and then decrypt the message using the same password.
 
 ### How to run
@@ -16,6 +23,10 @@ Simply click this binder link and navigate to the notebook file.
 
 
 ## Population dynamics
+
+<img src="https://raw.githubusercontent.com/ltoniazzi/Algebra_applications/main/Virtual_reality/images/pop_dyn.png?raw=true)" width="375" align="right" /></a>
+
+
 In this tutorial we construct a two dymensional dynamical system of Markovian type, which describes the way two populations move between two locations. You can change the dynamics/matrix to anything you want.
 
 ### How to run
