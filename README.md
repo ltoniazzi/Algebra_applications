@@ -47,7 +47,7 @@ and navigate to the notebook file.
 ## Virtual reality
 In this tutorial we construct two 3-dimensional games, where we use vector addition and matrix multiplication to control our avatar and reach a target.
 
-<img src="https://raw.githubusercontent.com/ltoniazzi/Algebra_applications/main/Virtual_reality/images/vir_real.jpg?raw=true)" width="375" align="right" /></a>
+<img src="https://raw.githubusercontent.com/ltoniazzi/Algebra_applications/main/Virtual_reality/images/vir_real.png?raw=true)" width="375" align="right" /></a>
 ### How to run
 To run any of this two tutorials you need to run the file in Matlab.
 
