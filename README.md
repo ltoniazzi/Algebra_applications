@@ -6,7 +6,7 @@ This repository contains four tutorials illustrating applications of linear alge
 
 <img src="https://raw.githubusercontent.com/ltoniazzi/Algebra_applications/main/Virtual_reality/images/ML.png?raw=true)" width="375" height="230" align="right" /></a>
 
-In this tutorial we construct from scratch, and without using calculus, a training algorythm for image recognition applied to the MNIST set. At the end this is comapered with the same model built on TensorFlow.
+In this tutorial we construct from scratch, and without using calculus, a training algorythm for image recognition applied to the MNIST set. At the end this is comapered with the same model trained with TensorFlow.
 
 ### How to run
 Simply click this Binder badge
