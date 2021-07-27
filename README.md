@@ -52,7 +52,10 @@ In this tutorial we construct two 3-dimensional games, where we use vector addit
 To run any of this two tutorials you need to run the file in Matlab.
 
 
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 ## How to run the notebooks locally
 
 ### 1. Clone the repository locally
@@ -65,7 +68,7 @@ git clone https://github.com/ltoniazzi/Algebra_applications.git
 
 ### 2. Download Anaconda
 
-Download the [Anaconda or Miniconda distribution](https://www.anaconda.com/download/) of Python 3.
+Download and install the [Anaconda or Miniconda distribution](https://www.anaconda.com/download/) of Python 3.
 
 ### 3. Set up your environment
 
