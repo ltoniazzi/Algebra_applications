@@ -51,3 +51,54 @@ In this tutorial we construct two 3-dimensional games, where we use vector addit
 ### How to run
 To run any of this two tutorials you need to run the file in Matlab.
 
+
+
+## How to run the notebooks locally
+
+### 1. Clone the repository locally
+
+In your terminal, use `git` to clone the repository locally.
+
+```bash
+git clone https://github.com/ltoniazzi/Algebra_applications.git
+```
+
+### 2. Download Anaconda
+
+Download the [Anaconda or Miniconda distribution](https://www.anaconda.com/download/) of Python 3.
+
+### 3. Set up your environment
+
+If this is the first time you're setting up your compute environment,
+use the `conda` package manager
+to **install all the necessary packages**
+from the provided `environment.yml` file.
+
+```bash
+conda env create -f environment.yml
+```
+
+To **activate the environment**, use the `conda activate` command.
+
+```bash
+conda activate alg_app
+```
+
+**If you get an error activating the environment**, use the older `source activate` command.
+
+```bash
+source activate alg_app
+```
+
+To **update the environment** based on the `environment.yml` specification file, use the `conda update` command.
+
+```bash
+conda env update -f environment.yml
+```
+
+
+
+### 4 Open your Jupyter notebook in Jupyter Lab
+
+In the terminal, execute `jupyter lab`.
+
