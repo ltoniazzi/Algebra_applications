@@ -6,7 +6,7 @@ This repository contains four tutorials illustrating applications of linear alge
 
 <img src="https://raw.githubusercontent.com/ltoniazzi/Algebra_applications/main/Virtual_reality/images/ML.png?raw=true)" width="375" height="230" align="right" /></a>
 
-In this tutorial we construct from scratch, and without using calculus, a training algorythm for image recognition applied to the MNIST set. At the end this is comapered with the same model trained with TensorFlow.
+In this tutorial we construct from scratch, and without using calculus, a training algorithm for image recognition applied to the MNIST set. At the end this is comapered with the same model trained with TensorFlow.
 
 ### How to run
 Simply click this Binder badge
@@ -20,7 +20,7 @@ and navigate to the notebook file.
 
 
 
-In this tutorial we use the theory of invertibility of elementary matrices to construct an encryption algorythm. You can input a password to encrypt a message and then decrypt the message using the same password.
+In this tutorial we use the theory of invertibility of elementary matrices to construct an encryption algorithm. You can input a password to encrypt a message and then decrypt the message using the same password.
 
 ### How to run
 Simply click this Binder badge
